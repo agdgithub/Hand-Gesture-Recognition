@@ -1,4 +1,4 @@
-# Hand-gesture-recognition-using-OpenCv-and-Cnn
+# Hand-gesture-recognition
 Hand gesture recognition is a component of human computer interaction. It's applications are in field of robotics
 ,virtual reality, and sign language interaction. This project is the combination of OpenCv and Cnn model. OpenCv is used to capture the current frame from your webcam and further Cnn is used to classify the image in the current frame.
 
